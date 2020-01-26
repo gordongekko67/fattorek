@@ -1,0 +1,32 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+button:hover{
+padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: blu;
+  background-color:#00ffff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+
+}
+
+.button:-moz-focus-inner {
+  border: none;
+}
+
+
+#images {
+    padding-left:300px;
+
+}
